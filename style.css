@@ -8,7 +8,7 @@ body {
     background: linear-gradient(135deg, #a8edea, #fed6e3);
     transition: 0.4s;
 }
-
+/* l */
 .card {
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(15px);

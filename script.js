@@ -1,5 +1,5 @@
 const apiKey = "YOUR_API_KEY";
-
+// l
 // 1️⃣ Get Location + Weather
 function getLocation() {
     navigator.geolocation.getCurrentPosition(position => {
